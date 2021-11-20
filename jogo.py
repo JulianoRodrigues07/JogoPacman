@@ -23,7 +23,7 @@ fundo = pygame.image.load("Pack/tela.png")
 ghost = pygame.image.load("Pack/ghost.png")
 morte = pygame.mixer.Sound("Pack/morreu.wav")
 ghostSom = pygame.mixer.Sound("Pack/pac.wav")
-ghostSom.set_volume(0.2)
+ghostSom.set_volume(0.1)
 
 def mostraPac(x, y):
     gameDisplay.blit(pacman, (x, y))
