@@ -1,0 +1,6 @@
+{'nome': 'Juliano', 'e-mail': 'juhreolonrodrigues15@gmail.com', 'score': <built-in function round>}
+{'nome': 'juliano ', 'e-mail': 'juhreolonrodrigues15@gmail.com', 'Score': <built-in function round>}
+{'nome': 'Juliano', 'e-mail': 'juhreolonrodrigues15@gmail.com', 'Score': <built-in function round>}
+{'nome': 'asd', 'e-mail': 'asd', 'Score': <built-in function round>}
+{'nome': 'juliano', 'e-mail': 'aspdfjsadfaskjdf', 'Score': <built-in function round>}
+{'nome': 'juliano', 'e-mail': 'juliano@gmail.com'}
